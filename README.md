@@ -12,7 +12,7 @@ Repositório com soluções para problemas práticos de lógica, desenvolvidos d
 - Design de menus interativos
 
 ## 💡 O que Aprendi
-Questão 1 (Descontos em Vendas)
+### Questão 1 (Descontos em Vendas)
 
 Lógica condicional aninhada: Uso de if-elif-else para faixas de desconto progressivas.
 
@@ -21,7 +21,7 @@ Validação de inputs: Como garantir que o valor digitado seja numérico.
 Cálculo percentual: Aplicação de descontos com operações matemáticas básicas.
 
 
-Questão 2 (Açaí e Cupuaçu)
+### Questão 2 (Açaí e Cupuaçu)
 
 Dicionários em Python: Estruturação de cardápio usando dict para mapear preços.
 
@@ -30,7 +30,7 @@ Tratamento de inputs: Conversão de letras maiúsculas/minúsculas (upper(), low
 Design de interfaces simples: Menu interativo com print e input.
 
 
-Questão 3 (Copiadora)
+### Questão 3 (Copiadora)
 
 Descontos em camadas: Combinação de descontos por quantidade e serviços adicionais.
 
@@ -39,7 +39,7 @@ Estruturas de decisão complexas: Encadeamento de condições para regras de neg
 Formatação de saída: Exibição de valores monetários com f-strings (ex: R${total:.2f}).
 
 
-Questão 4 (Gerenciador de Livros)
+### Questão 4 (Gerenciador de Livros)
 
 CRUD básico: Create (Cadastrar), Read (Consultar), Delete (Remover).
 
